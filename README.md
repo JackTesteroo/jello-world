@@ -1,2 +1,4 @@
 # jello-world
-Teachin myself again
+Teachin myself (how to do this) again
+
+Edits for everyone
