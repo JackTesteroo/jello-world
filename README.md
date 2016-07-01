@@ -8,3 +8,5 @@ Edits for everyone
 I dun forked this file
 
 Dingleberries
+
+Edits str8 to master
